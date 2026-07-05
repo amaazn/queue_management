@@ -12,6 +12,19 @@ A production-ready **MERN** application for managing service queues (Hospital OP
 
 ---
 
+## 🔗 Live Demo
+
+| | URL |
+|---|-----|
+| **Frontend** (Vercel) | https://queue-management-zeta.vercel.app |
+| **Backend API** (Render) | https://queue-management-v6db.onrender.com |
+
+**Demo login:** `admin@gmail.com` / `admin123`
+
+> ⏳ The backend runs on Render's free tier and sleeps after ~15 min of inactivity, so the **first** request may take up to ~50s to wake it. After that it's instant.
+
+---
+
 ## 📌 Project Overview
 
 QueueFlow is a single-manager queue management tool. After logging in, the manager works with two core concepts:
@@ -216,7 +229,7 @@ Base URL: `VITE_API_URL` (e.g. `http://localhost:5000`). All routes except login
 
 ## 🖼️ Screenshots
 
-> _Add screenshots here after running the app._
+> 📸 _Screenshots will be added here after the project review._
 
 | Login | Dashboard |
 |-------|-----------|
