@@ -42,11 +42,11 @@ The manager can move people up/down the line, serve the next person (always the 
 
 | Login | Dashboard |
 |-------|-----------|
-| _screenshot_ | _screenshot_ |
+| <img width="959" height="471" alt="Screenshot 2026-07-06 032421" src="https://github.com/user-attachments/assets/06f50d2d-9074-4597-ae4f-d1571884ec29" /> | <img width="959" height="476" alt="Screenshot 2026-07-06 032450" src="https://github.com/user-attachments/assets/b3f8faa2-d9e2-4e88-90ac-973e85966eb4" /> |
 
 | Queues | Queue Detail (Token Board) |
 |--------|----------------------------|
-| _screenshot_ | _screenshot_ |
+| <img width="959" height="483" alt="Screenshot 2026-07-06 032459" src="https://github.com/user-attachments/assets/fc60a528-8291-42e3-bdbf-c449c3391da1" />| <img width="959" height="478" alt="Screenshot 2026-07-06 032510" src="https://github.com/user-attachments/assets/145bc037-d12a-4d38-94a1-2b3e84fc1e52" /> |
 
 ---
 
@@ -244,3 +244,8 @@ Base URL: `VITE_API_URL` (e.g. `http://localhost:5000`). All routes except login
 ## 📝 License
 
 MIT — free to use for learning and interviews.
+
+
+
+
+
