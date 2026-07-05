@@ -36,6 +36,20 @@ The manager can move people up/down the line, serve the next person (always the 
 
 ---
 
+## 🖼️ Screenshots
+
+> 📸 _Add your screenshots below — the easiest way is to drag & drop the images into GitHub's README editor (it uploads them and inserts the link automatically), then replace the `screenshot` placeholders._
+
+| Login | Dashboard |
+|-------|-----------|
+| _screenshot_ | _screenshot_ |
+
+| Queues | Queue Detail (Token Board) |
+|--------|----------------------------|
+| _screenshot_ | _screenshot_ |
+
+---
+
 ## ✨ Features
 
 - 🔐 **Secure auth** — JWT stored in an **httpOnly cookie** (safe from XSS), bcrypt-hashed passwords, protected routes.
@@ -224,20 +238,6 @@ Base URL: `VITE_API_URL` (e.g. `http://localhost:5000`). All routes except login
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET` | `/api/dashboard` | Live stats + 7-day trend series |
-
----
-
-## 🖼️ Screenshots
-
-> 📸 _Screenshots will be added here after the project review._
-
-| Login | Dashboard |
-|-------|-----------|
-| _screenshot_ | _screenshot_ |
-
-| Queues | Queue Detail (Token Board) |
-|--------|----------------------------|
-| _screenshot_ | _screenshot_ |
 
 ---
 
